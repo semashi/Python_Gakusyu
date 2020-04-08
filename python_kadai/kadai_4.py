@@ -22,6 +22,4 @@ class Clinic:
 
     def _check_reserved(self):
 
-        
 
-    
